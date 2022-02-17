@@ -5,8 +5,8 @@
     "license": "MIT",
     "type": "libraries",
     "support": {
-        "issues": "https://github.com/moip/moip-sdk-php/issues",
-        "source": "https://github.com/moip/moip-sdk-php"
+        "issues": "https://github.com/somosyampi/moip-sdk-php/issues",
+        "source": "https://github.com/somosyampi/moip-sdk-php"
     },
     "authors": [
         {
