@@ -1,13 +1,9 @@
 {
-    "name": "yampi/moip-sdk-php",
+    "name": "somosyampi/moip-sdk-php",
     "description": "Cliente em PHP para integração server-side com APIs Moip v2",
     "keywords": ["libraries", "moip", "intermediary", "checkout", "marketplace", "yampi"],
     "license": "MIT",
     "type": "libraries",
-    "support": {
-        "issues": "https://github.com/somosyampi/moip-sdk-php/issues",
-        "source": "https://github.com/somosyampi/moip-sdk-php"
-    },
     "authors": [
         {
             "name": "Jean Cesar Garcia",
