@@ -4,6 +4,32 @@
     "keywords": ["libraries", "moip", "intermediary", "checkout", "marketplace", "yampi"],
     "license": "MIT",
     "type": "libraries",
+    "support": {
+        "issues": "https://github.com/moip/moip-sdk-php/issues",
+        "source": "https://github.com/moip/moip-sdk-php"
+    },
+    "authors": [
+        {
+            "name": "Jean Cesar Garcia",
+            "email": "jeancesargarcia@gmail.com"
+        },
+        {
+            "name": "Joao Batista Neto",
+            "email": "neto.joaobatista@gmail.com"
+        },
+        {
+            "name": "Caio Gaspar",
+            "email": "caio.gaspar@moip.com.br"
+        },
+        {
+            "name": "João Lucas Lucchetta",
+            "email": "joao.lucchetta@moip.com.br"
+        },
+        {
+            "name": "Matheus Nakaya",
+            "email": "matheus.nakaya@moip.com.br"
+        }
+    ],
     "require": {
         "php": ">=5.5",
         "rmccue/requests": ">=1.0"
