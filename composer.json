@@ -26,6 +26,12 @@
             "email": "matheus.nakaya@moip.com.br"
         }
     ],
+    "repositories": [
+        {
+           "type": "vcs",
+           "url": "https://github.com/somosyampi/moip-sdk-php" 
+        }
+    ],
     "require": {
         "php": ">=5.5",
         "rmccue/requests": ">=1.0"
