@@ -41,7 +41,7 @@ class BasicAuth implements Authentication
      *
      * @param \Requests_Hooks $hooks Hook system
      */
-    public function register(Requests_Hooks &$hooks)
+    public function register(Requests_Hooks $hooks)
     {
         $hooks->register('requests.before_request', [&$this, 'before_request']);
     }
